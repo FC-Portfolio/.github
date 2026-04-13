@@ -25,19 +25,5 @@ This portfolio showcases a collection of data analytics and business intelligenc
 
 ---
 
-## Purpose
-This portfolio was created to demonstrate hands‑on analytics skills, effective data storytelling, and the ability to communicate insights clearly to both technical and non‑technical stakeholders.
-
----
-
-## Projects
-Each repository contains:
-- A clearly defined business problem  
-- A documented analytical approach  
-- Interactive dashboards or reports  
-- Key insights and outcomes  
-
----
-
 ## Note
 Built as part of a continuous learning journey in data analytics and business intelligence.
