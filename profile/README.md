@@ -15,12 +15,13 @@ This portfolio showcases a collection of data analytics and business intelligenc
 ---
 
 ## Tools & Skills Demonstrated
-- **Power BI**
-- **DAX**
+- Power BI
+- DAX
+- SQL
+- Python
 - Data Visualization & Dashboard Design  
 - Data Modeling & Transformation  
 - Business & Operational Analytics
-- SQL
 
 ---
 
